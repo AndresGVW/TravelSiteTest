@@ -1,0 +1,27 @@
+{
+  "name": "tavelsitetest",
+  "version": "1.0.0",
+  "description": "TravelSiteTest Pckage Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresGVW/TravelSiteTest.git"
+  },
+  "keywords": [
+    "Package",
+    "Manager"
+  ],
+  "author": "AndresGVW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresGVW/TravelSiteTest/issues"
+  },
+  "homepage": "https://github.com/AndresGVW/TravelSiteTest#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
